@@ -10,8 +10,8 @@ _This webpage is a homepage for a mock resort "Epicodus Resort", on the homepage
 
 ## Setup/Installation Requirements
 
-*_Clone this repository_
-*_Open in a web browser of your choice_
+* _Clone this repository_
+* _Open in a web browser of your choice_
 
 ## Known Bugs
 
@@ -24,10 +24,10 @@ _If you have any questions or comments please contact Chad at chad@gmail.com or 
 ## Technologies Used
 
 * HTML
-* Css
+* CSS
 
 ### License
 
-* Licensed under the MIT license.
+Licensed under the MIT license.
 
 Copyright (c) 2017 Chad Durkin, Nicole Sanders
